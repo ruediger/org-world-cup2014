@@ -1,0 +1,246 @@
+#+TITLE: 2014 FIFA World Cup
+#+CATEGORY: Football
+
+* Info
+
+** Schedule from https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+** Inspired by https://github.com/djcb/org-euro2012/
+** All times for Brazil (UTC-3).
+
+Use the following function to change it.  E.g., set =n= to 5 hours for
+CEST (UTC+2).  Move to code block and use =C-c= to eval it.
+
+#+HEADERS: :var n=5
+#+begin_src emacs-lisp :results silent
+(save-excursion
+  (goto-char (point-min))
+  (while (re-search-forward "[[<]" nil t)
+    (when (org-at-timestamp-p t)
+      (org-timestamp-change n 'hour))))
+#+end_src
+
+* Group A                                                            :GroupA:
+Brazil, Mexico, Cameroon, Croatia
+** 1. Brazil - Croatia: 3-1
+   <2014-06-12 Thu 17:00>
+   São Paulo
+   Match 1
+** 2. Mexico - Cameroon
+   <2014-06-13 Fri 13:00>
+   Natal
+** 17. Brazil - Mexico
+   <2014-06-17 Tue 16:00>
+   Fortaleza
+** 18. Cameroon - Croatia
+   <2014-06-18 Wed 19:00>
+   Manaus
+** 33. Cameroon - Brazil
+   <2014-06-23 Mon 17:00>
+   Brasília
+** 34. Croatia - Mexico
+   <2014-06-23 Mon 17:00>
+   Recife
+
+* Group B                                                            :GroupB:
+Spain, Netherlands, Chile, Australia
+** 3. Spain - Netherlands
+   <2014-06-13 Fri 19:00>
+   Salvador
+** 4. Chile - Australia
+   <2014-06-13 Fri 19:00>
+   Cuiabá
+** 20. Australia - Netherlands
+   <2014-06-18 Wed 13:00>
+   Porto Alegra
+** 19. Spain - Chile
+   <2014-06-18 Wed 16:00>
+   Rio de Janeiro
+** 35. Australia - Spain
+   <2014-06-23 Mon 13:00>
+   Curitiba
+** 36. Netherlands - Chile
+   <2014-06-23 Mon 13:00>
+   São Paulo
+
+* Group C                                                            :GroupC:
+Colombia, Greece, Ivory Coast, Japan
+** 5. Colombia - Greece
+   <2014-06-14 Sat 13:00>
+   Belo Horizonte
+** 6. Ivory Coast - Japan
+   <2014-06-14 Sat 22:00>
+   Recife
+** 21. Colombia - Ivory Coast
+   <2014-06-19 Thu 13:00>
+   Brasília
+** 22. Japan - Greece
+   <2014-06-19 Thu 19:00>
+   Natal
+** 37. Japan - Colombia 
+   <2014-06-24 Tue 17:00>
+   Cuiabá
+** 38. Greece - Ivory Coast
+   <2014-06-24 Tue 17:00>
+   Fortaleza
+
+* Group D                                                            :GroupD:
+Uruguay, Costa Rica, England, Italy
+** 7. Uruguay - Costa Rica
+   <2014-06-14 Sat 16:00>
+   Fortaleza
+** 8. England - Italy
+   <2014-06-14 Sat 19:00>
+   Manaus
+** 23. Uruguay - England
+   <2014-06-19 Thu 16:00>
+   São Paulo
+** 24. Italy - Costa Rica
+   <2014-06-20 Fri 13:00>
+   Recife
+** 39. Italy - Uruguay
+   <2014-06-24 Tue 13:00>
+   Natal
+** 40. Costa Rica - England
+   <2014-06-24 Tue 13:00>
+   Belo Horizonte
+
+* Group E                                                            :GroupE:
+  Switzerland, Ecuador, France, Honduras
+** 9. Switzerland - Ecuador
+   <2014-06-15 Sun 13:00>
+   Brasília
+** 10. France - Honduras
+   <2014-06-15 Sun 16:00>
+   Porto Alegre
+** 25. Switzerland - France
+   <2014-06-20 Fri 16:00>
+   Salvador
+** 26. Honduras - Ecuador
+   <2014-06-20 Fri 19:00>
+   Curitiba
+** 41. Honduras - Switzerland
+   <2014-06-25 Wed 17:00>
+   Manaus
+** 41. Ecuador - France
+   <2014-06-25 Wed 17:00>
+   Rio de Janeiro
+
+* Group F                                                            :GroupF:
+  Argentina, Bosnia and Herzegovina, Iran, Nigeria
+** 11. Argentina - Bosnia and Herzegovina
+   <2014-06-15 Sun 19:00>
+   Rio de Janeiro
+** 12. Iran - Nigeria
+   <2014-06-16 Mon 16:00>
+   Curitiba
+** 27. Argentina - Iran
+   <2014-06-21 Sat 13:00>
+   Belo Horizonte
+** 28. Nigeria - Bosnia and Herzegovina
+   <2014-06-21 Sat 19:00>
+   Cuiabá
+** 43. Nigeria - Argentina
+   <2014-06-25 Wed 13:00>
+   Porto Aleger
+** 44. Bosnia and Herzegovina - Iran
+   <2014-06-25 Wed 13:00>
+   Salvador
+
+* Group G                                                            :GroupG:
+  Germany, Portugal, Ghana, United States
+** 13. Germany - Portugal
+   <2014-06-16 Mon 13:00>
+   Salvador
+** 14. Ghana - United States
+   <2014-06-16 Mon 19:00>
+   Natal
+** 29. Germany - Ghana
+   <2014-06-21 Sat 16:00>
+   Fortaleza
+** 30. United States - Portugal
+   <2014-06-22 Sun 18:00>
+   Manaus
+** 45. United States - Germany
+   <2014-06-26 Thu 13:00>
+   Recife
+** 46. Portugal - Ghana
+   <2014-06-26 Thu 13:00>
+   Brasília
+
+* Group H                                                            :GroupH:
+  Belgium, Algeria, Russia, South Korea
+** 15. Belgium - Algeria
+   <2014-06-17 Tue 13:00>
+   Belo Horizonte
+** 16. Russia - South Korea
+   <2014-06-17 Tue 19:00>
+   Cuiabá
+** 31. Belgium - Russia
+   <2014-06-22 Sun 13:00>
+   Rio de Janeiro
+** 32. South Korea - Algeria
+   <2014-06-22 Sun 16:00>
+   Porto Alegre
+** 47. South Korea - Belgium
+   <2014-06-26 Thu 17:00>
+   São Paulo
+** 48. Algeria - Russia
+   <2014-06-26 Thu 17:00>
+   Curitiba
+
+* Knockout stage                                                   :Knockout:
+** 49. Winner Group A - Runner-up Group B
+   <2014-06-28 Sat 13:00>
+   Belo Horizonte
+** 50. Winner Group C - Runner-up Group D
+   <2014-06-28 Sat 17:00>
+   Rio de Janeiro
+** 51. Winner Group B - Runner-up Group A
+   <2014-06-29 Sun 13:00>
+   Fortaleza
+** 52. Winner Group D - Runner-up Group C
+   <2014-06-29 Sun 17:00>
+   Recife
+** 53. Winner Group E - Runner-up Group F
+   <2014-06-30 Mon 13:00>
+   Brasília
+** 54. Winner Group G - Runner-up Group H
+   <2014-06-30 Mon 17:00>
+   Porto Alegre
+** 55. Winner Group F - Runner-up Group E
+   <2014-07-01 Tue 13:00>
+   São Paulo
+** 56. Winner Group H - Runner-up Group G
+   <2014-07-01 Tue 17:00>
+
+* Quarter Finals                                              :QuarterFinals:
+** 58. Winner Match 53 - Winner Match 54
+   <2014-07-04 Fri 13:00>
+   Fortaleza
+** 57. Winner Match 49 - Winner Match 50
+   <2014-07-04 Fri 17:00>
+   Rio de Janeiro
+** 60. Winner Match 55 - Winner Match 56
+   <2014-07-05 Sat 13:00>
+   Brasília
+** 59. Winner Match 51 - Winner Match 52
+   <2014-07-05 Sat 17:00>
+   Salvador
+
+* Semi Finals                                                    :SemiFinals:
+** 61. Winner Match 57 - Winner Match 58
+   <2014-07-08 Tue 17:00>
+   Belo Horizonte
+** 62. Winner Match 59 - Winner Match 60
+   <2014-07-09 Wed 17:00>
+   São Paulo
+
+* Third Place Match                                              :ThirdPlace:
+** 63. Loser Match 61 - Loser Match 62
+   <2014-07-12 Sat 17:00>
+   Brasília
+
+* Final                                                               :Final:
+** 64. Winner Match 61 - Winner Match 62
+   <2014-07-13 Sun 16:00>
+   Rio de Janeiro
