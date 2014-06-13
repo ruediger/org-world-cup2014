@@ -18,6 +18,11 @@ CEST (UTC+2).  Move to code block and use =C-c= to eval it.
     (when (org-at-timestamp-p t)
       (org-timestamp-change n 'hour))))
 #+end_src
+** =[[https://en.wikipedia.org/wiki/File:Soccer_ball.svg][football.svg]]= can be used as a category icon.
+It is a 16\times16 GFDL licensed SVG file.  Add =("Football"
+"PATH-TO-FOOTBALL.SVG" nil nil :ascent center)= to
+=org-agenda-category-icon-alist= to have org-mode display it in the
+Agenda next to the Football category.
 
 * Group A                                                            :GroupA:
 Brazil, Mexico, Cameroon, Croatia
