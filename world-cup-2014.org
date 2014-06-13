@@ -49,7 +49,7 @@ Brazil, Mexico, Cameroon, Croatia
 * Group B                                                            :GroupB:
 Spain, Netherlands, Chile, Australia
 ** 3. Spain - Netherlands
-   <2014-06-13 Fri 19:00>
+   <2014-06-13 Fri 16:00>
    Salvador
 ** 4. Chile - Australia
    <2014-06-13 Fri 19:00>
