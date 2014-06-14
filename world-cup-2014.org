@@ -30,7 +30,7 @@ Brazil, Mexico, Cameroon, Croatia
    <2014-06-12 Thu 17:00>
    São Paulo
    Match 1
-** 2. Mexico - Cameroon
+** 2. Mexico - Cameroon: 1-0
    <2014-06-13 Fri 13:00>
    Natal
 ** 17. Brazil - Mexico
@@ -48,10 +48,10 @@ Brazil, Mexico, Cameroon, Croatia
 
 * Group B                                                            :GroupB:
 Spain, Netherlands, Chile, Australia
-** 3. Spain - Netherlands
+** 3. Spain - Netherlands: 1-5
    <2014-06-13 Fri 16:00>
    Salvador
-** 4. Chile - Australia
+** 4. Chile - Australia: 3-1
    <2014-06-13 Fri 19:00>
    Cuiabá
 ** 20. Australia - Netherlands
