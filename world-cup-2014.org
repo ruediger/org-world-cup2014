@@ -81,7 +81,7 @@ Colombia, Greece, Ivory Coast, Japan
 ** 22. Japan - Greece
    <2014-06-19 Thu 19:00>
    Natal
-** 37. Japan - Colombia 
+** 37. Japan - Colombia
    <2014-06-24 Tue 17:00>
    Cuiabá
 ** 38. Greece - Ivory Coast
@@ -111,10 +111,10 @@ Uruguay, Costa Rica, England, Italy
 
 * Group E                                                            :GroupE:
   Switzerland, Ecuador, France, Honduras
-** 9. Switzerland - Ecuador
+** 9. Switzerland - Ecuador: 2-1
    <2014-06-15 Sun 13:00>
    Brasília
-** 10. France - Honduras
+** 10. France - Honduras: 3-0
    <2014-06-15 Sun 16:00>
    Porto Alegre
 ** 25. Switzerland - France
@@ -132,7 +132,7 @@ Uruguay, Costa Rica, England, Italy
 
 * Group F                                                            :GroupF:
   Argentina, Bosnia and Herzegovina, Iran, Nigeria
-** 11. Argentina - Bosnia and Herzegovina
+** 11. Argentina - Bosnia and Herzegovina: 2-1
    <2014-06-15 Sun 19:00>
    Rio de Janeiro
 ** 12. Iran - Nigeria
