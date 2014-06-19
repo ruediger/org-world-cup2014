@@ -33,10 +33,10 @@ Brazil, Mexico, Cameroon, Croatia
 ** 2. Mexico - Cameroon: 1-0
    <2014-06-13 Fri 13:00>
    Natal
-** 17. Brazil - Mexico
+** 17. Brazil - Mexico: 0-0
    <2014-06-17 Tue 16:00>
    Fortaleza
-** 18. Cameroon - Croatia
+** 18. Cameroon - Croatia: 0-4
    <2014-06-18 Wed 19:00>
    Manaus
 ** 33. Cameroon - Brazil
@@ -54,10 +54,10 @@ Spain, Netherlands, Chile, Australia
 ** 4. Chile - Australia: 3-1
    <2014-06-13 Fri 19:00>
    Cuiabá
-** 20. Australia - Netherlands
+** 20. Australia - Netherlands: 2-3
    <2014-06-18 Wed 13:00>
    Porto Alegra
-** 19. Spain - Chile
+** 19. Spain - Chile: 0-2
    <2014-06-18 Wed 16:00>
    Rio de Janeiro
 ** 35. Australia - Spain
@@ -135,7 +135,7 @@ Uruguay, Costa Rica, England, Italy
 ** 11. Argentina - Bosnia and Herzegovina: 2-1
    <2014-06-15 Sun 19:00>
    Rio de Janeiro
-** 12. Iran - Nigeria
+** 12. Iran - Nigeria: 0-0
    <2014-06-16 Mon 16:00>
    Curitiba
 ** 27. Argentina - Iran
@@ -153,10 +153,10 @@ Uruguay, Costa Rica, England, Italy
 
 * Group G                                                            :GroupG:
   Germany, Portugal, Ghana, United States
-** 13. Germany - Portugal
+** 13. Germany - Portugal: 4-0
    <2014-06-16 Mon 13:00>
    Salvador
-** 14. Ghana - United States
+** 14. Ghana - United States: 1-2
    <2014-06-16 Mon 19:00>
    Natal
 ** 29. Germany - Ghana
@@ -174,10 +174,10 @@ Uruguay, Costa Rica, England, Italy
 
 * Group H                                                            :GroupH:
   Belgium, Algeria, Russia, South Korea
-** 15. Belgium - Algeria
+** 15. Belgium - Algeria: 2-1
    <2014-06-17 Tue 13:00>
    Belo Horizonte
-** 16. Russia - South Korea
+** 16. Russia - South Korea: 1-1
    <2014-06-17 Tue 19:00>
    Cuiabá
 ** 31. Belgium - Russia
