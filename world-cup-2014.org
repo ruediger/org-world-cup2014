@@ -75,10 +75,10 @@ Colombia, Greece, Ivory Coast, Japan
 ** 6. Ivory Coast - Japan: 2-1
    <2014-06-14 Sat 22:00>
    Recife
-** 21. Colombia - Ivory Coast
+** 21. Colombia - Ivory Coast: 2-1
    <2014-06-19 Thu 13:00>
    Brasília
-** 22. Japan - Greece
+** 22. Japan - Greece: 0-0
    <2014-06-19 Thu 19:00>
    Natal
 ** 37. Japan - Colombia
@@ -96,10 +96,10 @@ Uruguay, Costa Rica, England, Italy
 ** 8. England - Italy: 1-2
    <2014-06-14 Sat 19:00>
    Manaus
-** 23. Uruguay - England
+** 23. Uruguay - England: 2-0
    <2014-06-19 Thu 16:00>
    São Paulo
-** 24. Italy - Costa Rica
+** 24. Italy - Costa Rica: 0-1
    <2014-06-20 Fri 13:00>
    Recife
 ** 39. Italy - Uruguay
@@ -117,10 +117,10 @@ Uruguay, Costa Rica, England, Italy
 ** 10. France - Honduras: 3-0
    <2014-06-15 Sun 16:00>
    Porto Alegre
-** 25. Switzerland - France
+** 25. Switzerland - France: 2-5
    <2014-06-20 Fri 16:00>
    Salvador
-** 26. Honduras - Ecuador
+** 26. Honduras - Ecuador: 1-2
    <2014-06-20 Fri 19:00>
    Curitiba
 ** 41. Honduras - Switzerland
@@ -138,10 +138,10 @@ Uruguay, Costa Rica, England, Italy
 ** 12. Iran - Nigeria: 0-0
    <2014-06-16 Mon 16:00>
    Curitiba
-** 27. Argentina - Iran
+** 27. Argentina - Iran: 1-0
    <2014-06-21 Sat 13:00>
    Belo Horizonte
-** 28. Nigeria - Bosnia and Herzegovina
+** 28. Nigeria - Bosnia and Herzegovina: 1-0
    <2014-06-21 Sat 19:00>
    Cuiabá
 ** 43. Nigeria - Argentina
@@ -159,7 +159,7 @@ Uruguay, Costa Rica, England, Italy
 ** 14. Ghana - United States: 1-2
    <2014-06-16 Mon 19:00>
    Natal
-** 29. Germany - Ghana
+** 29. Germany - Ghana: 2-2
    <2014-06-21 Sat 16:00>
    Fortaleza
 ** 30. United States - Portugal
@@ -180,10 +180,10 @@ Uruguay, Costa Rica, England, Italy
 ** 16. Russia - South Korea: 1-1
    <2014-06-17 Tue 19:00>
    Cuiabá
-** 31. Belgium - Russia
+** 31. Belgium - Russia: 1-0
    <2014-06-22 Sun 13:00>
    Rio de Janeiro
-** 32. South Korea - Algeria
+** 32. South Korea - Algeria: 2-4
    <2014-06-22 Sun 16:00>
    Porto Alegre
 ** 47. South Korea - Belgium
