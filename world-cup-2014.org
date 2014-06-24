@@ -39,10 +39,10 @@ Brazil, Mexico, Cameroon, Croatia
 ** 18. Cameroon - Croatia: 0-4
    <2014-06-18 Wed 19:00>
    Manaus
-** 33. Cameroon - Brazil
+** 33. Cameroon - Brazil: 1-4
    <2014-06-23 Mon 17:00>
    Brasília
-** 34. Croatia - Mexico
+** 34. Croatia - Mexico: 1-3
    <2014-06-23 Mon 17:00>
    Recife
 
@@ -60,10 +60,10 @@ Spain, Netherlands, Chile, Australia
 ** 19. Spain - Chile: 0-2
    <2014-06-18 Wed 16:00>
    Rio de Janeiro
-** 35. Australia - Spain
+** 35. Australia - Spain: 0-3
    <2014-06-23 Mon 13:00>
    Curitiba
-** 36. Netherlands - Chile
+** 36. Netherlands - Chile: 2-0
    <2014-06-23 Mon 13:00>
    São Paulo
 
