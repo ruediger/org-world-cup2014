@@ -81,10 +81,10 @@ Colombia, Greece, Ivory Coast, Japan
 ** 22. Japan - Greece 0-0
    <2014-06-19 Thu 19:00>
    Natal
-** 37. Japan - Colombia
+** 37. Japan - Colombia: 1-4
    <2014-06-24 Tue 17:00>
    Cuiabá
-** 38. Greece - Ivory Coast
+** 38. Greece - Ivory Coast: 2-1
    <2014-06-24 Tue 17:00>
    Fortaleza
 
@@ -102,10 +102,10 @@ Uruguay, Costa Rica, England, Italy
 ** 24. Italy - Costa Rica 0-1
    <2014-06-20 Fri 13:00>
    Recife
-** 39. Italy - Uruguay
+** 39. Italy - Uruguay. 0-1
    <2014-06-24 Tue 13:00>
    Natal
-** 40. Costa Rica - England
+** 40. Costa Rica - England: 0-0
    <2014-06-24 Tue 13:00>
    Belo Horizonte
 
@@ -194,16 +194,16 @@ Uruguay, Costa Rica, England, Italy
    Curitiba
 
 * Knockout stage                                                   :Knockout:
-** 49. Winner Group A - Runner-up Group B
+** 49. Brazil - Chile
    <2014-06-28 Sat 13:00>
    Belo Horizonte
-** 50. Winner Group C - Runner-up Group D
+** 50. Colombia - Uruguay
    <2014-06-28 Sat 17:00>
    Rio de Janeiro
-** 51. Winner Group B - Runner-up Group A
+** 51. Netherlands - Mexico
    <2014-06-29 Sun 13:00>
    Fortaleza
-** 52. Winner Group D - Runner-up Group C
+** 52. Costa Rica - Greece
    <2014-06-29 Sun 17:00>
    Recife
 ** 53. Winner Group E - Runner-up Group F
