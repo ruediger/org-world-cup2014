@@ -123,10 +123,10 @@ Uruguay, Costa Rica, England, Italy
 ** 26. Honduras - Ecuador 1-2
    <2014-06-20 Fri 19:00>
    Curitiba
-** 41. Honduras - Switzerland
+** 41. Honduras - Switzerland: 0-3
    <2014-06-25 Wed 17:00>
    Manaus
-** 41. Ecuador - France
+** 41. Ecuador - France: 0-0
    <2014-06-25 Wed 17:00>
    Rio de Janeiro
 
@@ -144,10 +144,10 @@ Uruguay, Costa Rica, England, Italy
 ** 28. Nigeria - Bosnia and Herzegovina 1-0
    <2014-06-21 Sat 19:00>
    Cuiabá
-** 43. Nigeria - Argentina
+** 43. Nigeria - Argentina: 2-3
    <2014-06-25 Wed 13:00>
    Porto Aleger
-** 44. Bosnia and Herzegovina - Iran
+** 44. Bosnia and Herzegovina - Iran: 3-1
    <2014-06-25 Wed 13:00>
    Salvador
 
@@ -165,10 +165,10 @@ Uruguay, Costa Rica, England, Italy
 ** 30. United States - Portugal 2-2
    <2014-06-22 Sun 18:00>
    Manaus
-** 45. United States - Germany
+** 45. United States - Germany: 0-1
    <2014-06-26 Thu 13:00>
    Recife
-** 46. Portugal - Ghana
+** 46. Portugal - Ghana: 2-1
    <2014-06-26 Thu 13:00>
    Brasília
 
@@ -186,10 +186,10 @@ Uruguay, Costa Rica, England, Italy
 ** 32. South Korea - Algeria 2-4
    <2014-06-22 Sun 16:00>
    Porto Alegre
-** 47. South Korea - Belgium
+** 47. South Korea - Belgium: 0-1
    <2014-06-26 Thu 17:00>
    São Paulo
-** 48. Algeria - Russia
+** 48. Algeria - Russia: 1-1
    <2014-06-26 Thu 17:00>
    Curitiba
 
@@ -206,16 +206,16 @@ Uruguay, Costa Rica, England, Italy
 ** 52. Costa Rica - Greece
    <2014-06-29 Sun 17:00>
    Recife
-** 53. Winner Group E - Runner-up Group F
+** 53. France - Nigeria
    <2014-06-30 Mon 13:00>
    Brasília
-** 54. Winner Group G - Runner-up Group H
+** 54. Germany - Algeria
    <2014-06-30 Mon 17:00>
    Porto Alegre
-** 55. Winner Group F - Runner-up Group E
+** 55. Argentinia - Switzerland
    <2014-07-01 Tue 13:00>
    São Paulo
-** 56. Winner Group H - Runner-up Group G
+** 56. Belgium - United States
    <2014-07-01 Tue 17:00>
 
 * Quarter Finals                                              :QuarterFinals:
