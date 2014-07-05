@@ -219,10 +219,10 @@ Uruguay, Costa Rica, England, Italy
    <2014-07-01 Tue 17:00>
 
 * Quarter Finals                                              :QuarterFinals:
-** 58. France - Germany
+** 58. France - Germany: 0 - 1
    <2014-07-04 Fri 13:00>
    Fortaleza
-** 57. Brazil - Colombia
+** 57. Brazil - Colombia: 2 - 1
    <2014-07-04 Fri 17:00>
    Rio de Janeiro
 ** 60. Argentina - Belgium
@@ -233,7 +233,7 @@ Uruguay, Costa Rica, England, Italy
    Salvador
 
 * Semi Finals                                                    :SemiFinals:
-** 61. Winner Match 57 - Winner Match 58
+** 61. Brazil - Germany
    <2014-07-08 Tue 17:00>
    Belo Horizonte
 ** 62. Winner Match 59 - Winner Match 60
