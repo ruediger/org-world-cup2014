@@ -225,10 +225,10 @@ Uruguay, Costa Rica, England, Italy
 ** 57. Brazil - Colombia: 2 - 1
    <2014-07-04 Fri 17:00>
    Rio de Janeiro
-** 60. Argentina - Belgium
+** 60. Argentina - Belgium: 1 - 0
    <2014-07-05 Sat 13:00>
    Brasília
-** 59. Netherlands - Costa Rica
+** 59. Netherlands - Costa Rica: 0 (4) - 0 (3)
    <2014-07-05 Sat 17:00>
    Salvador
 
@@ -236,7 +236,7 @@ Uruguay, Costa Rica, England, Italy
 ** 61. Brazil - Germany
    <2014-07-08 Tue 17:00>
    Belo Horizonte
-** 62. Winner Match 59 - Winner Match 60
+** 62. Netherlands - Argentina
    <2014-07-09 Wed 17:00>
    São Paulo
 
