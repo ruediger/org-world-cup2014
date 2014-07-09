@@ -233,7 +233,7 @@ Uruguay, Costa Rica, England, Italy
    Salvador
 
 * Semi Finals                                                    :SemiFinals:
-** 61. Brazil - Germany
+** 61. Brazil - Germany: 1 - 7
    <2014-07-08 Tue 17:00>
    Belo Horizonte
 ** 62. Netherlands - Argentina
@@ -241,11 +241,11 @@ Uruguay, Costa Rica, England, Italy
    São Paulo
 
 * Third Place Match                                              :ThirdPlace:
-** 63. Loser Match 61 - Loser Match 62
+** 63. Brazil - Loser Match 62
    <2014-07-12 Sat 17:00>
    Brasília
 
 * Final                                                               :Final:
-** 64. Winner Match 61 - Winner Match 62
+** 64. Germany - Winner Match 62
    <2014-07-13 Sun 16:00>
    Rio de Janeiro
